@@ -1,0 +1,738 @@
+#####################################################<Lauf Number = 5068><2018-09-28><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 85, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4565_ERS5068'
+#####################################################<Lauf Number = 5039><2018-09-28><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 85, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4546_ERS5039'
+#####################################################<Lauf Number = 5052A><2018-09-28><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 301, in <module>
+    't_sz' : t_sz,
+NameError: name 't_sz' is not defined
+#####################################################<Lauf Number = 5052A><2018-09-28><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 301, in <module>
+    't_sz' : t_sz,
+NameError: name 't_sz' is not defined
+#####################################################<Lauf Number = 5052A><2018-09-28><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 301, in <module>
+    't_sz' : t_sz,
+NameError: name 't_sz' is not defined
+#####################################################<Lauf Number = 5052A><2018-09-28><class 'NameError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Finaltest docgenerator.py", line 301, in <module>
+    't_sz' : t_sz,
+NameError: name 't_sz' is not defined
+#####################################################<Lauf Number = 4900><2018-09-28><class 'ValueError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Finaltest docgenerator.py", line 53, in <module>
+    if D['Chiller'] == D['Chiller']:
+  File "C:\Users\mjdietl.ERS-GMBH\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\generic.py", line 1576, in __nonzero__
+    .format(self.__class__.__name__))
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+#####################################################<Lauf Number = 5068><2018-09-28><class 'FileExistsError'>Traceback (most recent call last):
+  File "<input>", line 85, in <module>
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4565_ERS5068'
+#####################################################<Lauf Number = 4900><2018-09-28><class 'ValueError'>Traceback (most recent call last):
+  File "<input>", line 53, in <module>
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\generic.py", line 1576, in __nonzero__
+    .format(self.__class__.__name__))
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+#####################################################<Lauf Number = 5068><2018-09-28><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "<input>", line 52, in <module>
+ZeroDivisionError: division by zero
+#####################################################<Lauf Number = 5068><2018-09-28><class 'FileExistsError'>Traceback (most recent call last):
+  File "<input>", line 96, in <module>
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4565_ERS5068'
+#####################################################<Lauf Number = 5052A><2018-09-28><class 'NameError'>Traceback (most recent call last):
+  File "<input>", line 312, in <module>
+NameError: name 't_sz' is not defined
+#####################################################<Lauf Number = 5052B><2018-09-28><class 'ValueError'>Traceback (most recent call last):
+  File "<input>", line 494, in <module>
+ValueError: invalid literal for int() with base 10: 'nan'
+#####################################################<Lauf Number = 5052B><2018-09-28><class 'ValueError'>Traceback (most recent call last):
+  File "<input>", line 495, in <module>
+ValueError: invalid literal for int() with base 10: 'nan'
+#####################################################<Lauf Number = 5052B><2018-09-28><class 'ValueError'>Traceback (most recent call last):
+  File "<input>", line 496, in <module>
+ValueError: invalid literal for int() with base 10: 'nan'
+#####################################################<Lauf Number = 5052B><2018-09-28><class 'KeyboardInterrupt'>Traceback (most recent call last):
+  File "<input>", line 495, in <module>
+KeyboardInterrupt
+#####################################################<Lauf Number = 5052B><2018-09-28><class 'KeyError'>Traceback (most recent call last):
+  File "<input>", line 563, in <module>
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexing.py", line 2142, in __getitem__
+    return self.obj._get_value(*key, takeable=self._takeable)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\frame.py", line 2539, in _get_value
+    return engine.get_value(series._values, index)
+  File "pandas\_libs\index.pyx", line 106, in pandas._libs.index.IndexEngine.get_value
+  File "pandas\_libs\index.pyx", line 114, in pandas._libs.index.IndexEngine.get_value
+  File "pandas\_libs\index.pyx", line 162, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1492, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1500, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'nan'
+#####################################################<Lauf Number = 5052B><2018-09-28><class 'KeyError'>Traceback (most recent call last):
+  File "<input>", line 566, in <module>
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\indexing.py", line 2142, in __getitem__
+    return self.obj._get_value(*key, takeable=self._takeable)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\core\frame.py", line 2539, in _get_value
+    return engine.get_value(series._values, index)
+  File "pandas\_libs\index.pyx", line 106, in pandas._libs.index.IndexEngine.get_value
+  File "pandas\_libs\index.pyx", line 114, in pandas._libs.index.IndexEngine.get_value
+  File "pandas\_libs\index.pyx", line 162, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1492, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1500, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'nan'
+#####################################################<Lauf Number = 5052B><2018-09-28><class 'FileExistsError'>Traceback (most recent call last):
+  File "<input>", line 96, in <module>
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4561_ERS5052B'
+#####################################################<Lauf Number = 5052B><2018-09-28><class 'KeyboardInterrupt'>Traceback (most recent call last):
+  File "<input>", line 508, in <module>
+KeyboardInterrupt
+#####################################################<Lauf Number = 5044-2><2018-10-08><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5044_2><2018-10-08><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 43, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#####################################################<Lauf Number = 5044-2><2018-10-08><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5048><2018-10-09><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4562_ERS5048'
+#####################################################<Lauf Number = 5044-2><2018-10-09><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4571_ERS5044-2'
+#####################################################<Lauf Number = 5044-2><2018-10-09><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5044-2><2018-10-09><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5044-1><2018-10-17><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5044-1><2018-10-17><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5124-1><2018-10-29><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 43, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#####################################################<Lauf Number = 4983-13><2018-11-05><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-13'
+#####################################################<Lauf Number = 4983-13><2018-11-05><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-13'
+#####################################################<Lauf Number = 4983-13><2018-11-05><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-13'
+#####################################################<Lauf Number = 4983-13><2018-11-05><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-13'
+#####################################################<Lauf Number = 4983-13><2018-11-05><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-13'
+#####################################################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 4983_13><2018-11-05><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 50, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#####################################################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 4983_13><2018-11-05><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 50, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#####################################################<Lauf Number = 4983-13><2018-11-05><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-13'
+#####################################################<Lauf Number = 4983-13-><2018-11-05><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-13-'
+#####################################################<Lauf Number = 5095><2018-11-12><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################<Lauf Number = 5095><2018-11-12><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4597_ERS5095'
+#####################################################<Lauf Number = 5095><2018-11-12><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5075><2018-11-12><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 50, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#####################################################<Lauf Number = L174><2018-11-13><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################<Lauf Number = L174><2018-11-13><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4605_L174'
+#####################################################<Lauf Number = L 174><2018-11-13><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 5054><2018-11-14><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 58, in <module>
+    x = 1/0
+ZeroDivisionError: division by zero
+#####################################################<Lauf Number = 4983-14><2018-11-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-14'
+#####################################################<Lauf Number = 4983-14><2018-11-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-14'
+#####################################################<Lauf Number = 4983-14><2018-11-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-14'
+#####################################################<Lauf Number = 4983-14><2018-11-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-14'
+#####################################################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 4983_14><2018-11-14><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 50, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#####################################################<Lauf Number = 5054><2018-11-14><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4555_ERS5054'
+#####################################################<Lauf Number = 5054><2018-11-14><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################<Lauf Number = 5069><2018-11-22><class 'ImportError'>Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\Finaltest docgenerator\venv\lib\site-packages\pandas\io\excel.py", line 352, in __init__
+    import xlrd
+  File "C:\Program Files\JetBrains\PyCharm Community Edition 2018.3\helpers\pydev\_pydev_bundle\pydev_import_hook.py", line 21, in do_import
+    module = self._system_import(name, *args, **kwargs)
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<input>", line 21, in <module>
+  File "C:\Users\admin\PycharmProjects\Finaltest docgenerator\venv\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\admin\PycharmProjects\Finaltest docgenerator\venv\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\admin\PycharmProjects\Finaltest docgenerator\venv\lib\site-packages\pandas\io\excel.py", line 307, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "C:\Users\admin\PycharmProjects\Finaltest docgenerator\venv\lib\site-packages\pandas\io\excel.py", line 354, in __init__
+    raise ImportError(err_msg)
+ImportError: Install xlrd >= 0.9.0 for Excel support
+#####################################################<Lauf Number = 5069><2018-11-22><class 'KeyboardInterrupt'>Traceback (most recent call last):
+  File "<input>", line 667, in <module>
+  File "<input>", line 291, in write_fillable_pdf
+  File "C:\Users\admin\PycharmProjects\Finaltest docgenerator\venv\lib\site-packages\pdfrw\pdfwriter.py", line 358, in write
+    self.killobj, user_fmt=user_fmt)
+  File "C:\Users\admin\PycharmProjects\Finaltest docgenerator\venv\lib\site-packages\pdfrw\pdfwriter.py", line 216, in FormatObjects
+    f_write(objstr)
+  File "C:\Users\admin\PycharmProjects\Finaltest docgenerator\venv\lib\site-packages\pdfrw\pdfwriter.py", line 60, in f_write
+    f.write(convert_store(s))
+KeyboardInterrupt
+#####################################################<Lauf Number = 5069><2018-11-22><class 'FileExistsError'>Traceback (most recent call last):
+  File "<input>", line 96, in <module>
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: '//fileserver/alle/ERSTools/Endtest Document Generator/4572_ERS5069'
+#####################################################<Lauf Number = 5077><2018-11-30><class 'IndexError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 526, in <module>
+    vrn = crates_ls[0]
+IndexError: list index out of range
+#####################################################<Lauf Number = 5077><2018-11-30><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4622_ERS5077'
+#####################################################<Lauf Number = 5106><2018-11-30><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################<Lauf Number = 5097><2018-12-07><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5097><2018-12-12><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4627_ERS5097'
+#####################################################<Lauf Number = 5097><2018-12-12><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4627_ERS5097'
+#####################################################<Lauf Number = 5097><2018-12-12><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5097><2018-12-12><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5131-9><2018-12-14><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################<Lauf Number = 5131-9><2018-12-14><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################<Lauf Number = 5131-10><2018-12-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '5131-10'
+#####################################################<Lauf Number = 5131-><2018-12-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '5131-'
+#####################################################<Lauf Number = 5131-9><2018-12-14><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################<Lauf Number = 5131-10><2018-12-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '5131-10'
+#####################################################<Lauf Number = 5131-10><2018-12-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '5131-10'
+#####################################################<Lauf Number = 5131-11><2018-12-14><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '5131-11'
+#####################################################<Lauf Number = 5131-9><2018-12-17><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4633_ERS5131-9'
+#####################################################<Lauf Number = 5131-10><2018-12-17><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '5131-10'
+#####################################################<Lauf Number = 5131-10><2018-12-17><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '5131-10'
+#####################################################<Lauf Number = 5131-10><2018-12-17><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '5131-10'
+#####################################################<Lauf Number = 5103><2018-12-17><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4636_ERS5103'
+#####################################################<Lauf Number = 5106><2018-12-17><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#####################################################<Lauf Number = 5127><2019-01-14><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 437, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5069><2019-01-15><class 'FileExistsError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V1.1.py", line 93, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4572_ERS5069'
+#################   SUCCESS   ##############################<Lauf Number = 5069><2019-01-15>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5044-2><2019-01-15><class 'ValueError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V1.1.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5156><2019-02-01><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 4983-15><2019-02-01><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-15'
+#####################################################<Lauf Number = 5156><2019-02-01><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 4893-15><2019-02-01><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4893-15'
+#####################################################<Lauf Number = 5137><2019-02-01><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 229, in <module>
+    if D['Chuck'][removed_len - 1] == 'P':
+NameError: name 'removed_len' is not defined
+#####################################################<Lauf Number = 5138><2019-02-01><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 229, in <module>
+    if D['Chuck'][removed_len - 1] == 'P':
+NameError: name 'removed_len' is not defined
+#####################################################<Lauf Number = 4983-15><2019-02-01><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 47, in <module>
+    if int(lauf_num) not in D.index.values:  # Is the Laufnummer contained in the Serien_nummern spreadsheet
+ValueError: invalid literal for int() with base 10: '4983-15'
+#####################################################<Lauf Number = 5156><2019-02-01><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#####################################################<Lauf Number = 5137><2019-02-08><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 96, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4659_ERS5137'
+#####################################################<Lauf Number = 5191><2019-02-11><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Finaltest docgenerator.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 2221><2019-02-13><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V1.1.py", line 59, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 2221><2019-02-13><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V1.1.py", line 59, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 5159><2019-02-13><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V1.1.py", line 59, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   SUCCESS   ##############################<Lauf Number = 5199><2019-02-13>#################   SUCCESS   ##############################<Lauf Number = 5148><2019-02-15>#################   SUCCESS   ##############################<Lauf Number = 5187><2019-02-15>#################   SUCCESS   ##############################<Lauf Number = 5148><2019-02-15>#################   SUCCESS   ##############################<Lauf Number = 5187><2019-02-15>#################   SUCCESS   ##############################<Lauf Number = 5199><2019-02-18>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5069><2019-02-19><class 'FileNotFoundError'>Traceback (most recent call last):
+  File "<input>", line 95, in <module>
+FileNotFoundError: [WinError 53] Der Netzwerkpfad wurde nicht gefunden: '//alle/Austin4572_ERS5069'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5069><2019-02-19><class 'FileNotFoundError'>Traceback (most recent call last):
+  File "<input>", line 95, in <module>
+FileNotFoundError: [WinError 53] Der Netzwerkpfad wurde nicht gefunden: '//alle/Austin/4572_ERS5069'
+#################   SUCCESS   ##############################<Lauf Number = 5069><2019-02-19>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5044-2><2019-02-19><class 'ValueError'>Traceback (most recent call last):
+  File "<input>", line 162, in <module>
+ValueError: invalid literal for int() with base 10: '00/00'
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5044_2><2019-02-19><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "<input>", line 44, in <module>
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5044-2><2019-02-19><class 'ValueError'>Traceback (most recent call last):
+  File "<input>", line 162, in <module>
+ValueError: invalid literal for int() with base 10: '00/00'
+#################   SUCCESS   ##############################<Lauf Number = 5128><2019-02-19>#################   SUCCESS   ##############################<Lauf Number = 5128><2019-02-19>#################   SUCCESS   ##############################<Lauf Number = 5159><2019-02-19>#################   SUCCESS   ##############################<Lauf Number = 5210><2019-02-25>#################   SUCCESS   ##############################<Lauf Number = L176><2019-02-25>#################   SUCCESS   ##############################<Lauf Number = 5200><2019-02-25>#################   SUCCESS   ##############################<Lauf Number = L177><2019-02-25>#################   SUCCESS   ##############################<Lauf Number = 5205-1><2019-02-25>#################   SUCCESS   ##############################<Lauf Number = 3150B><2019-02-27>#################   SUCCESS   ##############################<Lauf Number = 5142-2><2019-02-27>#################   SUCCESS   ##############################<Lauf Number = 5194><2019-03-01>#################   SUCCESS   ##############################<Lauf Number = 5178><2019-03-01>#################   SUCCESS   ##############################<Lauf Number = 5219-1><2019-03-08>#################   SUCCESS   ##############################<Lauf Number = 5219-2><2019-03-08>#################   SUCCESS   ##############################<Lauf Number = 5226-1><2019-03-08>#################   SUCCESS   ##############################<Lauf Number = 5226-2><2019-03-08>#################   SUCCESS   ##############################<Lauf Number = 5205-2><2019-03-08>#################   SUCCESS   ##############################<Lauf Number = 5205-3><2019-03-08>#################   SUCCESS   ##############################<Lauf Number = 5205-4><2019-03-08>#################   SUCCESS   ##############################<Lauf Number = 5189><2019-03-08>#################   SUCCESS   ##############################<Lauf Number = 5178><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 5189><2019-03-11>#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 1342><2019-03-11><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V1.1.py", line 59, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 9999><2019-03-11><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V1.1.py", line 59, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   SUCCESS   ##############################<Lauf Number = 5185><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 5188><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 5189><2019-03-11>#################   RUN FAIL ERROR   ##############################<Lauf Number = 7777><2019-03-11><class 'FileExistsError'>Traceback (most recent call last):
+  File "<input>", line 93, in <module>
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4687_ERS7777'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 7777><2019-03-11><class 'IndexError'>Traceback (most recent call last):
+  File "<input>", line 202, in <module>
+IndexError: list index out of range
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 7777><2019-03-11><class 'IndexError'>Traceback (most recent call last):
+  File "<input>", line 202, in <module>
+IndexError: list index out of range
+#################   SUCCESS   ##############################<Lauf Number = 5189><2019-03-11>#################   RUN FAIL ERROR   ##############################<Lauf Number = 7777><2019-03-11><class 'IndexError'>Traceback (most recent call last):
+  File "<input>", line 202, in <module>
+IndexError: list index out of range
+#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   SUCCESS   ##############################<Lauf Number = 7777><2019-03-11>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5191-1><2019-03-11><class 'ValueError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V1.2.py", line 160, in <module>
+    if len(str(int(D['Serie.3']))) != 2:
+ValueError: invalid literal for int() with base 10: '00/00'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5205-2><2019-03-15><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V1.2.py", line 93, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4683_ERS5205-2'
+#################   SUCCESS   ##############################<Lauf Number = 5185><2019-03-15>#################   SUCCESS   ##############################<Lauf Number = 5188><2019-03-15>#################   SUCCESS   ##############################<Lauf Number = 5195><2019-03-15>#################   SUCCESS   ##############################<Lauf Number = 5104><2019-03-20>#################   SUCCESS   ##############################<Lauf Number = 5185><2019-03-21>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5185><2019-03-21><class 'FileExistsError'>Traceback (most recent call last):
+  File "<input>", line 93, in <module>
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: '//fileserver/alle/Austin/autofill/4688_ERS5185'
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5180><2019-03-21><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "<input>", line 51, in <module>
+ZeroDivisionError: division by zero
+#################   SUCCESS   ##############################<Lauf Number = 5185><2019-03-21>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5104><2019-03-21><class 'ImportError'>Traceback (most recent call last):
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\io\excel.py", line 391, in __init__
+    import xlrd
+ModuleNotFoundError: No module named 'xlrd'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "\\fileserver\produktion\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V1.2.py", line 22, in <module>
+    index_col=0)  # imports Seriennummern spreadsheet
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\util\_decorators.py", line 188, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\util\_decorators.py", line 188, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\io\excel.py", line 350, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\io\excel.py", line 653, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\io\excel.py", line 393, in __init__
+    raise ImportError(err_msg)
+ImportError: Install xlrd >= 1.0.0 for Excel support
+#################   SUCCESS   ##############################<Lauf Number = 5104><2019-03-21>#################   SUCCESS   ##############################<Lauf Number = 5185><2019-03-23>#################   SUCCESS   ##############################<Lauf Number = 5185><2019-03-23>#################   SUCCESS   ##############################<Lauf Number = 5190><2019-03-25>#################   SUCCESS   ##############################<Lauf Number = 5196><2019-03-25>#################   SUCCESS   ##############################<Lauf Number = 4983-2><2019-03-25>#################   SUCCESS   ##############################<Lauf Number = 4983-3><2019-03-25>#################   SUCCESS   ##############################<Lauf Number = 4983-4><2019-03-25>#################   SUCCESS   ##############################<Lauf Number = 5216><2019-03-25>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5127><2019-03-25><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V1.2.py", line 93, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4646_ERS5127'
+#################   SUCCESS   ##############################<Lauf Number = 5217><2019-03-25>#################   SUCCESS   ##############################<Lauf Number = 5222><2019-03-25>#################   SUCCESS   ##############################<Lauf Number = 5255-1><2019-03-25>#################   SUCCESS   ##############################<Lauf Number = 5255-2><2019-03-25>#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 5219-2><2019-03-28><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V1.2.py", line 59, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   SUCCESS   ##############################<Lauf Number = 5196><2019-04-02>#################   RUN FAIL ERROR   ##############################<Lauf Number = ><2019-04-02><class 'KeyboardInterrupt'>Traceback (most recent call last):
+  File "<input>", line 29, in <module>
+  File "C:\Users\a.ibele\venv\lib\site-packages\pandas\util\_decorators.py", line 188, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\a.ibele\venv\lib\site-packages\pandas\util\_decorators.py", line 188, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\a.ibele\venv\lib\site-packages\pandas\io\excel.py", line 350, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "C:\Users\a.ibele\venv\lib\site-packages\pandas\io\excel.py", line 653, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "C:\Users\a.ibele\venv\lib\site-packages\pandas\io\excel.py", line 424, in __init__
+    self.book = xlrd.open_workbook(filepath_or_buffer)
+  File "C:\Users\a.ibele\venv\lib\site-packages\xlrd\__init__.py", line 157, in open_workbook
+    ragged_rows=ragged_rows,
+  File "C:\Users\a.ibele\venv\lib\site-packages\xlrd\book.py", line 120, in open_workbook_xls
+    bk.get_sheets()
+  File "C:\Users\a.ibele\venv\lib\site-packages\xlrd\book.py", line 723, in get_sheets
+    self.get_sheet(sheetno)
+  File "C:\Users\a.ibele\venv\lib\site-packages\xlrd\book.py", line 714, in get_sheet
+    sh.read(self)
+  File "C:\Users\a.ibele\venv\lib\site-packages\xlrd\sheet.py", line 915, in read
+    rowx, colx, xf_index, result_str, flags = local_unpack('<HHH8sH', data[0:16])
+KeyboardInterrupt
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5196><2019-04-02><class 'KeyboardInterrupt'>Traceback (most recent call last):
+  File "<input>", line 712, in <module>
+  File "<input>", line 308, in write_fillable_pdf
+  File "C:\Users\a.ibele\venv\lib\site-packages\pdfrw\pdfwriter.py", line 352, in write
+    f = preexisting and fname or open(fname, 'wb')
+KeyboardInterrupt
+#################   SUCCESS   ##############################<Lauf Number = 5196><2019-04-02>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5196><2019-04-02><class 'KeyboardInterrupt'>Traceback (most recent call last):
+  File "<input>", line 993, in <module>
+  File "C:\Users\a.ibele\venv\lib\site-packages\pdfrw\pdfwriter.py", line 358, in write
+    self.killobj, user_fmt=user_fmt)
+  File "C:\Users\a.ibele\venv\lib\site-packages\pdfrw\pdfwriter.py", line 216, in FormatObjects
+    f_write(objstr)
+  File "C:\Users\a.ibele\venv\lib\site-packages\pdfrw\pdfwriter.py", line 60, in f_write
+    f.write(convert_store(s))
+KeyboardInterrupt
+#################   SUCCESS   ##############################<Lauf Number = 5196><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 5222><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 5190><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 4983-4><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 5255-1><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 5217><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 5222><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 5222><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 5255-1><2019-04-02>#################   SUCCESS   ##############################<Lauf Number = 5190><2019-04-02>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5226-2><2019-04-08><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 100, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4682_ERS5226-2'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5240><2019-04-08><class 'IndexError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 567, in <module>
+    vrn = crates_ls[0]
+IndexError: list index out of range
+#################   SUCCESS   ##############################<Lauf Number = 5240><2019-04-08>#################   SUCCESS   ##############################<Lauf Number = 5273-1><2019-04-08>#################   SUCCESS   ##############################<Lauf Number = 5273-2><2019-04-08>#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 5216><2019-04-15><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 66, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 2516><2019-04-15><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 465, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5216><2019-04-15><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 100, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4698_ERS5216'
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5215><2019-04-15><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 58, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5215><2019-04-15><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 465, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5215><2019-04-15><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 465, in <module>
+    if ref_controllers.at[controller_index, 'st'] == 'RSI':
+NameError: name 'controller_index' is not defined
+#################   SUCCESS   ##############################<Lauf Number = 5228><2019-04-16>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5205-2><2019-04-17><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 100, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4683_ERS5205-2'
+#################   SUCCESS   ##############################<Lauf Number = 5205-5><2019-04-17>#################   SUCCESS   ##############################<Lauf Number = 5205-6><2019-04-17>#################   SUCCESS   ##############################<Lauf Number = 5205-7><2019-04-17>#################   SUCCESS   ##############################<Lauf Number = 5205-8><2019-04-17>#################   SUCCESS   ##############################<Lauf Number = 5233><2019-04-17>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5205-5><2019-04-23><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 100, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4717_ERS5205-5'
+#################   SUCCESS   ##############################<Lauf Number = 5227><2019-04-23>#################   SUCCESS   ##############################<Lauf Number = 5244-1><2019-04-23>#################   SUCCESS   ##############################<Lauf Number = 5253><2019-04-23>#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 5217><2019-04-23><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 66, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5217><2019-04-23><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 100, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4699_ERS5217'
+#################   SUCCESS   ##############################<Lauf Number = 5220><2019-04-23>#################   SUCCESS   ##############################<Lauf Number = 5179><2019-04-23>#################   SUCCESS   ##############################<Lauf Number = 5233><2019-04-24>#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5193><2019-04-25><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 58, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5193><2019-04-25><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 58, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   SUCCESS   ##############################<Lauf Number = 5193><2019-04-25>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5193><2019-04-26><class 'FileNotFoundError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.py", line 29, in <module>
+    index_col=0)  # imports Seriennummern spreadsheet
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\io\excel.py", line 307, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\io\excel.py", line 394, in __init__
+    self.book = xlrd.open_workbook(self._io)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\xlrd\__init__.py", line 116, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '//fileserver/produktion/Endtest/30_Seriennummern/Seriennummern_v2.xlm'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5193><2019-04-26><class 'FileExistsError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.py", line 100, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4727_ERS5193'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5193><2019-04-26><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 100, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4727_ERS5193'
+#################   SUCCESS   ##############################<Lauf Number = 5228><2019-04-26>#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5261><2019-05-09><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.py", line 58, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5261><2019-05-09><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.py", line 58, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5246><2019-05-09><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.py", line 58, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer ist nicht in der Seriennummer XLS-Liste<Lauf Number = 5246><2019-05-09><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.py", line 58, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   SUCCESS   ##############################<Lauf Number = 5261><2019-05-09>#################   SUCCESS   ##############################<Lauf Number = 5246><2019-05-09>#################   SUCCESS   ##############################<Lauf Number = 5185><2019-05-10>#################   SUCCESS   ##############################<Lauf Number = 5185><2019-05-10>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5185><2019-05-10><class 'FileNotFoundError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Backup\Endtest Docgenerator V1.21.py", line 22, in <module>
+    index_col=0)  # imports Seriennummern spreadsheet
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\util\_decorators.py", line 188, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\util\_decorators.py", line 188, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\io\excel.py", line 350, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\io\excel.py", line 653, in __init__
+    self._reader = self._engines[engine](self._io)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\pandas\io\excel.py", line 424, in __init__
+    self.book = xlrd.open_workbook(filepath_or_buffer)
+  File "C:\Users\a.ibele\AppData\Local\Programs\Python\Python37-32\lib\site-packages\xlrd\__init__.py", line 111, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '//fileserver/produktion/Endtest/30_Seriennummern/Seriennummern.xls'
+#################   SUCCESS   ##############################<Lauf Number = 5185><2019-05-10>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5261-2><2019-05-13><class 'FileNotFoundError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 29, in <module>
+    index_col=0)  # imports Seriennummern spreadsheet
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\io\excel.py", line 307, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\io\excel.py", line 394, in __init__
+    self.book = xlrd.open_workbook(self._io)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\xlrd\__init__.py", line 116, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '//fileserver/produktion/Endtest/30_Seriennummern/Seriennummern_v2.xlsm'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5246-1><2019-05-13><class 'FileNotFoundError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 29, in <module>
+    index_col=0)  # imports Seriennummern spreadsheet
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\io\excel.py", line 307, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\io\excel.py", line 394, in __init__
+    self.book = xlrd.open_workbook(self._io)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\xlrd\__init__.py", line 116, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '//fileserver/produktion/Endtest/30_Seriennummern/Seriennummern_v2.xlsm'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5246-1><2019-05-13><class 'FileNotFoundError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.py", line 29, in <module>
+    index_col=0)  # imports Seriennummern spreadsheet
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\util\_decorators.py", line 178, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\io\excel.py", line 307, in read_excel
+    io = ExcelFile(io, engine=engine)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\pandas\io\excel.py", line 394, in __init__
+    self.book = xlrd.open_workbook(self._io)
+  File "C:\Users\dogan\AppData\Local\Programs\Python\Python37\lib\site-packages\xlrd\__init__.py", line 116, in open_workbook
+    with open(filename, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '//fileserver/produktion/Endtest/30_Seriennummern/Seriennummern_v2.xlsm'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5246-1><2019-05-13><class 'AttributeError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Endtest Docgenerator V2.1.py", line 363, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5246><2019-05-13><class 'FileExistsError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Endtest Docgenerator V2.1.py", line 100, in <module>
+    os.mkdir(newdir)
+FileExistsError: [WinError 183] Eine Datei kann nicht erstellt werden, wenn sie bereits vorhanden ist: '//fileserver/produktion/Endtest/10_Dokumente/4729_ERS5246'
+#################   SUCCESS   ##############################<Lauf Number = 5254><2019-05-13>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5254><2019-05-13><class 'FileExistsError'>Traceback (most recent call last):
+  File "<input>", line 100, in <module>
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: '//fileserver/produktion/Endtest/10_Dokumente/4731_ERS5254'
+#################   SUCCESS   ##############################<Lauf Number = 5254><2019-05-13>#################   SUCCESS   ##############################<Lauf Number = TEST01><2019-05-16>#################   SUCCESS   ##############################<Lauf Number = TEST01><2019-05-16>#################   SUCCESS   ##############################<Lauf Number = TEST01><2019-05-16>#################   SUCCESS   ##############################<Lauf Number = 5179-2><2019-05-17>#################   SUCCESS   ##############################<Lauf Number = 5239><2019-05-17>#################   SUCCESS   ##############################<Lauf Number = 5247><2019-05-17>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5308-1><2019-05-17><class 'AttributeError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 363, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5308-1><2019-05-17><class 'AttributeError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 363, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   RUN FAIL ERROR   ##############################Error = Error: Die Laufnummer wird in der Excel-Datei doppelt oder mehrmals aufgeführt<Lauf Number = 5254><2019-05-22><class 'ZeroDivisionError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 66, in <module>
+    x = 1 / 0
+ZeroDivisionError: division by zero
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5256><2019-05-23><class 'AttributeError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 363, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5257><2019-05-23><class 'AttributeError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 363, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5256><2019-05-23><class 'AttributeError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 363, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5257><2019-05-23><class 'AttributeError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 363, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   SUCCESS   ##############################<Lauf Number = 5295-1><2019-05-23>#################   SUCCESS   ##############################<Lauf Number = 5295-2><2019-05-23>#################   SUCCESS   ##############################<Lauf Number = 5263-1><2019-05-28>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5308-2><2019-05-28><class 'AttributeError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 363, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5211><2019-05-29><class 'NameError'>Traceback (most recent call last):
+  File "R:\Dokumentation\Protokolle\Endtest\Stammdaten\Endtest Docgenerator V2.1.py", line 246, in <module>
+    if D['Chuck'][removed_len - 1] == 'P':
+NameError: name 'removed_len' is not defined
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5211><2019-05-29><class 'NameError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.1.py", line 246, in <module>
+    if D['Chuck'][removed_len - 1] == 'P':
+NameError: name 'removed_len' is not defined
+#################   RUN FAIL ERROR   ##############################<Lauf Number = 5211><2019-05-29><class 'AttributeError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.1.py", line 364, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   SUCCESS   ##############################<Lauf Number = 5263-2><2019-05-29>#################   RUN FAIL ERROR   ##############################<Lauf Number = 5211><2019-05-29><class 'AttributeError'>Traceback (most recent call last):
+  File "X:\ERSTools\Endtest Document Generator\Endtest Docgenerator V2.1.py", line 364, in <module>
+    title2 = E2.at['1', 'st']
+AttributeError: 'int' object has no attribute 'at'
+#################   SUCCESS   ##############################<Lauf Number = 5211><2019-05-29>#################   SUCCESS   ##############################<Lauf Number = TEST01><2019-05-29>

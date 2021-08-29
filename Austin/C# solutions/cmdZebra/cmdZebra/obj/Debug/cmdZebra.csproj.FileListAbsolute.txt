@@ -1,0 +1,11 @@
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\obj\Debug\cmdZebra.csprojAssemblyReference.cache
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\obj\Debug\cmdZebra.csproj.CoreCompileInputs.cache
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\obj\Debug\Interop.EnvDTE.dll
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\obj\Debug\Interop.VSLangProj.dll
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\obj\Debug\Interop.VSLangProj2.dll
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\obj\Debug\cmdZebra.csproj.ResolveComReference.cache
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\bin\Debug\cmdZebra.exe.config
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\bin\Debug\cmdZebra.exe
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\bin\Debug\cmdZebra.pdb
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\obj\Debug\cmdZebra.exe
+C:\Users\a.ibele\source\repos\cmdZebra\cmdZebra\obj\Debug\cmdZebra.pdb

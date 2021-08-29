@@ -1,0 +1,8 @@
+C:\Users\a.ibele\source\repos\open_excel\open_excel\obj\Debug\open_excel.csprojAssemblyReference.cache
+C:\Users\a.ibele\source\repos\open_excel\open_excel\obj\Debug\open_excel.csproj.ResolveComReference.cache
+C:\Users\a.ibele\source\repos\open_excel\open_excel\obj\Debug\open_excel.csproj.CoreCompileInputs.cache
+C:\Users\a.ibele\source\repos\open_excel\open_excel\bin\Debug\open_excel.exe.config
+C:\Users\a.ibele\source\repos\open_excel\open_excel\bin\Debug\open_excel.exe
+C:\Users\a.ibele\source\repos\open_excel\open_excel\bin\Debug\open_excel.pdb
+C:\Users\a.ibele\source\repos\open_excel\open_excel\obj\Debug\open_excel.exe
+C:\Users\a.ibele\source\repos\open_excel\open_excel\obj\Debug\open_excel.pdb

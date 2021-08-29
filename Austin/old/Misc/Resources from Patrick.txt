@@ -1,0 +1,15 @@
+1. Visual Studio Community edition.
+
+2. Graph library: Zedgraph
+
+3. PDF library: iTextSharp
+
+
+
+Website
+
+    - msdn.microsoft.com
+    - codplex.com
+    - 
+2. Stack overflow
+3. Github

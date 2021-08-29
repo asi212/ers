@@ -1,0 +1,20 @@
+LF in Auf.B AND NOT Auf.R      (current IA or normal order)
+
+	1. If NOT in For.B
+		New copy to For.A AND For.B
+
+	2. If in For.A AND For.B
+		Do NOTHING
+	
+		
+
+
+LF in Auf.B AND Auf.R begins with IA         (previous IA)
+
+
+	1. If Auf.R NOT IN For.B (never copied)
+		New copy Auf.B to For.A and Auf.R to For.B
+
+	2. If Auf. R in For.A AND For.B
+		Copy Auf.B to For.A
+	

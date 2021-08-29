@@ -1,0 +1,15 @@
+#r "C:\Projects\AC3R2\Test\AC3R2NetUtil.dll"
+using System.Net;
+using System.Net.Sockets;
+using System.Threading;
+using System.Globalization;
+AC3R2NetUtil.NetUtil client = new AC3R2NetUtil.NetUtil();
+
+public bool Reconnect()
+{
+     client.DisconectFromServer();
+     System.Threading.Thread.Sleep(100);
+     bool connected = client.Connect2Server("172.30.240.51", "2002");
+     WriteLine("Connected: {0}",connected);
+     return connected;
+}

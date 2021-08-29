@@ -1,0 +1,8 @@
+C:\Users\a.ibele\source\repos\copy_error_list\copy_error_list\bin\Debug\copy_error_list.exe.config
+C:\Users\a.ibele\source\repos\copy_error_list\copy_error_list\bin\Debug\copy_error_list.exe
+C:\Users\a.ibele\source\repos\copy_error_list\copy_error_list\bin\Debug\copy_error_list.pdb
+C:\Users\a.ibele\source\repos\copy_error_list\copy_error_list\obj\Debug\copy_error_list.csprojAssemblyReference.cache
+C:\Users\a.ibele\source\repos\copy_error_list\copy_error_list\obj\Debug\copy_error_list.csproj.ResolveComReference.cache
+C:\Users\a.ibele\source\repos\copy_error_list\copy_error_list\obj\Debug\copy_error_list.csproj.CoreCompileInputs.cache
+C:\Users\a.ibele\source\repos\copy_error_list\copy_error_list\obj\Debug\copy_error_list.exe
+C:\Users\a.ibele\source\repos\copy_error_list\copy_error_list\obj\Debug\copy_error_list.pdb

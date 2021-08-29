@@ -1,0 +1,7 @@
+C:\Users\a.ibele\source\repos\cmdZebra2\cmdZebra2\obj\Debug\cmdZebra2.csprojAssemblyReference.cache
+C:\Users\a.ibele\source\repos\cmdZebra2\cmdZebra2\obj\Debug\cmdZebra2.csproj.CoreCompileInputs.cache
+C:\Users\a.ibele\source\repos\cmdZebra2\cmdZebra2\bin\Debug\cmdZebra2.exe.config
+C:\Users\a.ibele\source\repos\cmdZebra2\cmdZebra2\bin\Debug\cmdZebra2.exe
+C:\Users\a.ibele\source\repos\cmdZebra2\cmdZebra2\bin\Debug\cmdZebra2.pdb
+C:\Users\a.ibele\source\repos\cmdZebra2\cmdZebra2\obj\Debug\cmdZebra2.exe
+C:\Users\a.ibele\source\repos\cmdZebra2\cmdZebra2\obj\Debug\cmdZebra2.pdb

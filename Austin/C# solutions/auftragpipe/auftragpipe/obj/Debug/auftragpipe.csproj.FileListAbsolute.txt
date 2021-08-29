@@ -1,0 +1,8 @@
+C:\Users\a.ibele\source\repos\auftragpipe\auftragpipe\obj\Debug\auftragpipe.csprojAssemblyReference.cache
+C:\Users\a.ibele\source\repos\auftragpipe\auftragpipe\obj\Debug\auftragpipe.csproj.ResolveComReference.cache
+C:\Users\a.ibele\source\repos\auftragpipe\auftragpipe\obj\Debug\auftragpipe.csproj.CoreCompileInputs.cache
+C:\Users\a.ibele\source\repos\auftragpipe\auftragpipe\bin\Debug\auftragpipe.exe.config
+C:\Users\a.ibele\source\repos\auftragpipe\auftragpipe\bin\Debug\auftragpipe.exe
+C:\Users\a.ibele\source\repos\auftragpipe\auftragpipe\bin\Debug\auftragpipe.pdb
+C:\Users\a.ibele\source\repos\auftragpipe\auftragpipe\obj\Debug\auftragpipe.exe
+C:\Users\a.ibele\source\repos\auftragpipe\auftragpipe\obj\Debug\auftragpipe.pdb

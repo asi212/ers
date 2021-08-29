@@ -1,0 +1,8 @@
+C:\Users\a.ibele\source\repos\update_snxls\update_snxls\bin\Debug\update_snxls.exe.config
+C:\Users\a.ibele\source\repos\update_snxls\update_snxls\bin\Debug\update_snxls.exe
+C:\Users\a.ibele\source\repos\update_snxls\update_snxls\bin\Debug\update_snxls.pdb
+C:\Users\a.ibele\source\repos\update_snxls\update_snxls\obj\Debug\update_snxls.csprojAssemblyReference.cache
+C:\Users\a.ibele\source\repos\update_snxls\update_snxls\obj\Debug\update_snxls.csproj.ResolveComReference.cache
+C:\Users\a.ibele\source\repos\update_snxls\update_snxls\obj\Debug\update_snxls.csproj.CoreCompileInputs.cache
+C:\Users\a.ibele\source\repos\update_snxls\update_snxls\obj\Debug\update_snxls.exe
+C:\Users\a.ibele\source\repos\update_snxls\update_snxls\obj\Debug\update_snxls.pdb

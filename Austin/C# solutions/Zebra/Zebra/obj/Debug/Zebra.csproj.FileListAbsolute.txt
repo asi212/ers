@@ -1,0 +1,11 @@
+C:\Users\a.ibele\source\repos\Zebra\Zebra\obj\Debug\Zebra.csprojAssemblyReference.cache
+C:\Users\a.ibele\source\repos\Zebra\Zebra\obj\Debug\Zebra.Form1.resources
+C:\Users\a.ibele\source\repos\Zebra\Zebra\obj\Debug\Zebra.Properties.Resources.resources
+C:\Users\a.ibele\source\repos\Zebra\Zebra\obj\Debug\Zebra.csproj.GenerateResource.cache
+C:\Users\a.ibele\source\repos\Zebra\Zebra\obj\Debug\Zebra.csproj.CoreCompileInputs.cache
+C:\Users\a.ibele\source\repos\Zebra\Zebra\bin\Debug\Zebra.exe.config
+C:\Users\a.ibele\source\repos\Zebra\Zebra\bin\Debug\Zebra.exe
+C:\Users\a.ibele\source\repos\Zebra\Zebra\bin\Debug\Zebra.pdb
+C:\Users\a.ibele\source\repos\Zebra\Zebra\obj\Debug\Zebra.exe
+C:\Users\a.ibele\source\repos\Zebra\Zebra\obj\Debug\Zebra.pdb
+C:\Users\a.ibele\source\repos\Zebra\Zebra\obj\Debug\Zebra.csproj.ResolveComReference.cache
